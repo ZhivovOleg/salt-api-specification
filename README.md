@@ -1,4 +1,4 @@
-# ActiveBC Json Specification
+# Salt Json Specification
 
 Спецификация Salt:API для использования в REST сервисах и frontend.
 <br/>
@@ -6,7 +6,7 @@
 
 > Внимание!<br/>
 > Спецификация в версии Pre-Release<br/>
-> В случае обнуружения ошибок, неточностей или необходимости исправлений, просьба создавать ISSUE либо писать на [oazhivov@activebc.ru](mailto:oazhivov@activebc.ru) с темой "ActiveBC Json Specification"
+> В случае обнуружения ошибок, неточностей или необходимости исправлений, просьба создавать ISSUE.
 
 # Формат документации
 Чтобы начать работу с Salt:API, ознакомьтесь с [документацией по спецификации](./Spec.md)
